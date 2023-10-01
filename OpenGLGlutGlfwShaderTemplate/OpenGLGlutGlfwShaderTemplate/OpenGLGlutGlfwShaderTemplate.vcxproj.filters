@@ -43,5 +43,8 @@
     <None Include="cube.vert">
       <Filter>Header Files</Filter>
     </None>
+    <None Include="vertexanim2.shader">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
