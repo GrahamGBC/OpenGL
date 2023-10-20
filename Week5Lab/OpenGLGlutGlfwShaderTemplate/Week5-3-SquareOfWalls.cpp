@@ -198,10 +198,10 @@ void keyDown(unsigned char key, int x, int y)
 	case 's':
 		osV += scrollSpd;
 		break;
-	case 'a':
+	case 'd':
 		osH += scrollSpd;
 		break;
-	case 'd':
+	case 'a':
 		osH -= scrollSpd;
 		break;
 	}

@@ -164,11 +164,11 @@ void init(void)
     glBindVertexArray(0); // Can optionally unbind the vertex array to avoid modification.
 
 // Enable depth test.
-	glEnable(GL_DEPTH_TEST);
+	//glEnable(GL_DEPTH_TEST);
 
-	glEnable(GL_CULL_FACE);
-	glFrontFace(GL_CCW);
-	glCullFace(GL_BACK);
+	//glEnable(GL_CULL_FACE);
+	//glFrontFace(GL_CCW);
+	//glCullFace(GL_BACK);
 }
 
 

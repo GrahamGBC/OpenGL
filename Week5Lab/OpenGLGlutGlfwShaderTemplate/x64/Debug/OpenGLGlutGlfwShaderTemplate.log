@@ -1,2 +1,9 @@
-﻿  Week5-4-Sphere.cpp
+﻿  Week5-2-PerspectiveProjection.cpp
+C:\Users\graha\OneDrive\Documents\GitHub\OpenGL\Week5Lab\OpenGLGlutGlfwShaderTemplate\Week5-2-PerspectiveProjection.cpp(48,32): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\graha\OneDrive\Documents\GitHub\OpenGL\Week5Lab\OpenGLGlutGlfwShaderTemplate\Week5-2-PerspectiveProjection.cpp(243,24): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+C:\Users\graha\OneDrive\Documents\GitHub\OpenGL\Week5Lab\OpenGLGlutGlfwShaderTemplate\Week5-2-PerspectiveProjection.cpp(243,37): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+C:\Users\graha\OneDrive\Documents\GitHub\OpenGL\Week5Lab\OpenGLGlutGlfwShaderTemplate\Week5-2-PerspectiveProjection.cpp(244,24): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+C:\Users\graha\OneDrive\Documents\GitHub\OpenGL\Week5Lab\OpenGLGlutGlfwShaderTemplate\Week5-2-PerspectiveProjection.cpp(244,37): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+C:\Users\graha\OneDrive\Documents\GitHub\OpenGL\Week5Lab\OpenGLGlutGlfwShaderTemplate\Week5-2-PerspectiveProjection.cpp(245,25): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+C:\Users\graha\OneDrive\Documents\GitHub\OpenGL\Week5Lab\OpenGLGlutGlfwShaderTemplate\Week5-2-PerspectiveProjection.cpp(246,25): warning C4305: '*=': truncation from 'double' to 'GLfloat'
   OpenGLGlutGlfwShaderTemplate.vcxproj -> C:\Users\graha\OneDrive\Documents\GitHub\OpenGL\Week5Lab\x64\Debug\OpenGLGlutGlfwShaderTemplate.exe
